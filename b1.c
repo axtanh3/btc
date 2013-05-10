@@ -7,7 +7,7 @@
  
 int main(void)
 {
-    char hoten[29];
+	char hoten[29];
 	unsigned int tuoi;
 	//input
 	printf("Ten sv :");
